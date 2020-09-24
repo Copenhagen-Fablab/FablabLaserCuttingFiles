@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="510mm"
+   height="440mm"
+   viewBox="0 0 510 440"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="VaerkstedhallernSignage.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="1118.0887"
+     inkscape:cy="972.43595"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:snap-text-baseline="true"
+     inkscape:object-paths="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:snap-page="false"
+     inkscape:object-nodes="true"
+     inkscape:snap-intersection-paths="false" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,143)">
+    <g
+       id="g1011"
+       transform="translate(-3.9656493,-21.67936)">
+      <g
+         transform="matrix(0.56806793,0,0,0.56806793,694.81181,138.51965)"
+         id="g885">
+        <text
+           id="text830"
+           y="-297.95355"
+           x="-935.01953"
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:53.85534286px;line-height:1.25;font-family:'Jost*';-inkscape-font-specification:'Jost* Ultra-Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.36595893;"
+           xml:space="preserve"><tspan
+             style="stroke-width:3.36595893;-inkscape-font-specification:'Jost* Ultra-Bold';font-family:'Jost*';font-weight:800;font-style:normal;font-stretch:normal;font-variant:normal;"
+             y="-297.95355"
+             x="-935.01953"
+             id="tspan828"
+             sodipodi:role="line">OMKLÆDNING 1</tspan></text>
+      </g>
+      <g
+         transform="matrix(0.56806793,0,0,0.56806793,569.78725,54.827524)"
+         id="g890">
+        <text
+           id="text842"
+           y="-10.018461"
+           x="-393.29788"
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:53.85534286px;line-height:1.25;font-family:'Jost*';-inkscape-font-specification:'Jost* Ultra-Bold';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.36595893;"
+           xml:space="preserve"><tspan
+             style="text-align:end;text-anchor:end;stroke-width:3.36595893;-inkscape-font-specification:'Jost* Ultra-Bold';font-family:'Jost*';font-weight:800;font-style:normal;font-stretch:normal;font-variant:normal;"
+             y="-10.018461"
+             x="-393.29788"
+             id="tspan840"
+             sodipodi:role="line">VÆRKSTEDER</tspan></text>
+      </g>
+      <g
+         transform="matrix(0.56806793,0,0,0.56806793,694.81181,-29.817485)"
+         id="g895">
+        <text
+           id="text848"
+           y="279.59406"
+           x="-935.01953"
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:53.85534286px;line-height:1.25;font-family:'Jost*';-inkscape-font-specification:'Jost* Ultra-Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.36595893;"
+           xml:space="preserve"><tspan
+             style="stroke-width:3.36595893;-inkscape-font-specification:'Jost* Ultra-Bold';font-family:'Jost*';font-weight:800;font-style:normal;font-stretch:normal;font-variant:normal;"
+             y="279.59406"
+             x="-935.01953"
+             id="tspan846"
+             sodipodi:role="line">OMKLÆDNING 2</tspan></text>
+      </g>
+      <path
+         transform="matrix(0.26458333,0,0,0.26458333,0,-143)"
+         id="path832"
+         d="M 537.87305,987.60352 276.42969,1138.5488 14.988281,1289.4922 276.42969,1440.4355 537.87305,1591.3789 512.69727,1440.4355 h 475.875 429.78713 l -25.1758,-150.9453 25.1758,-150.9433 h -429.78713 -475.875 z"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:1.42777383;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+         inkscape:connector-curvature="0" />
+      <text
+         id="text836"
+         y="208.88551"
+         x="346.34573"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:30.59349251px;line-height:1.25;font-family:'Jost*';-inkscape-font-specification:'Jost* Ultra-Bold';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.91209328;"
+         xml:space="preserve"><tspan
+           style="text-align:end;text-anchor:end;stroke-width:1.91209328;-inkscape-font-specification:'Jost* Ultra-Bold';font-family:'Jost*';font-weight:800;font-style:normal;font-stretch:normal;font-variant:normal;"
+           y="208.88551"
+           x="346.34573"
+           id="tspan834"
+           sodipodi:role="line">GRØNT OG BLÅT</tspan></text>
+      <path
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:0.37776515;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+         d="M 142.31224,-41.445949 73.138688,-1.5083439 3.9656493,38.428763 73.138688,78.365844 142.31224,118.30295 135.65115,78.365844 h 125.90859 113.71451 l -6.66109,-39.93761 6.66109,-39.9370806 H 261.55974 135.65115 Z"
+         id="path936" />
+      <path
+         sodipodi:nodetypes="ccccccccc"
+         id="path938"
+         d="m 142.31224,-41.446456 -6.66109,-39.937081 h 113.71451 125.90859 l -6.66109,-39.937103 69.17355,39.937606 69.17304,39.937107 -69.17304,39.9370804 -69.17355,39.9371066"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:0.37776515;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+         inkscape:connector-curvature="0" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:0.37776515;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+         d="m 368.61327,38.428851 69.17355,39.937602 69.17304,39.937107 -69.17304,39.93708 -69.17355,39.93711"
+         id="path940" />
+    </g>
+    <rect
+       y="-29.226627"
+       x="-331.5274"
+       height="29.229689"
+       width="66.756088"
+       id="rect962"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:0.51983815;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke" />
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:0.52641904;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect964"
+       width="68.456978"
+       height="29.229689"
+       x="-0.0030581213"
+       y="-331.5274"
+       transform="rotate(-90)" />
+    <g
+       transform="matrix(0.56806793,0,0,0.56806793,-94.402475,322.97203)"
+       id="g970">
+      <text
+         id="text968"
+         y="-297.95355"
+         x="-935.01953"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.85534286px;line-height:1.25;font-family:'Jost*';-inkscape-font-specification:'Jost*';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.36595893"
+         xml:space="preserve"><tspan
+           style="stroke-width:3.36595893"
+           y="-297.95355"
+           x="-935.01953"
+           id="tspan966"
+           sodipodi:role="line">OMKLÆDNING 1</tspan></text>
+    </g>
+    <g
+       transform="matrix(0.56806793,0,0,0.56806793,-219.42703,239.2799)"
+       id="g976">
+      <text
+         id="text974"
+         y="-10.018461"
+         x="-393.29788"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.85534286px;line-height:1.25;font-family:'Jost*';-inkscape-font-specification:'Jost*';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.36595893"
+         xml:space="preserve"><tspan
+           style="text-align:end;text-anchor:end;stroke-width:3.36595893"
+           y="-10.018461"
+           x="-393.29788"
+           id="tspan972"
+           sodipodi:role="line">VÆRKSTEDER</tspan></text>
+    </g>
+    <g
+       transform="matrix(0.56806793,0,0,0.56806793,-94.402475,154.6349)"
+       id="g982">
+      <text
+         id="text980"
+         y="279.59406"
+         x="-935.01953"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.85534286px;line-height:1.25;font-family:'Jost*';-inkscape-font-specification:'Jost*';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.36595893"
+         xml:space="preserve"><tspan
+           style="stroke-width:3.36595893"
+           y="279.59406"
+           x="-935.01953"
+           id="tspan978"
+           sodipodi:role="line">OMKLÆDNING 2</tspan></text>
+    </g>
+    <path
+       id="path984"
+       d="m -646.90204,302.75581 -69.17356,39.9376 -69.17304,39.93711 69.17304,39.93708 69.17356,39.93711 -6.66109,-39.93711 h 125.90859 113.71451 l -6.6611,-39.93761 6.6611,-39.93708 h -113.71451 -125.90859 z"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:0.37776515;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       inkscape:connector-curvature="0" />
+    <text
+       id="text988"
+       y="393.33789"
+       x="-442.86856"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.59349251px;line-height:1.25;font-family:'Jost*';-inkscape-font-specification:'Jost*';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.91209328"
+       xml:space="preserve"><tspan
+         style="text-align:end;text-anchor:end;stroke-width:1.91209328"
+         y="393.33789"
+         x="-442.86856"
+         id="tspan986"
+         sodipodi:role="line">GRØNT OG BLÅT</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:0.37776515;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       d="m -646.90204,143.00643 -69.17356,39.93761 -69.17304,39.9371 69.17304,39.93708 69.17356,39.93711 -6.66109,-39.93711 h 125.90859 113.71451 l -6.66109,-39.93761 6.66109,-39.93708 h -113.71451 -125.90859 z"
+       id="path990" />
+    <path
+       id="path992"
+       d="m -420.60112,63.131741 69.17355,39.937609 69.17304,39.9371 -69.17304,39.93708 -69.17355,39.93711 6.66109,-39.93711 h -125.90859 -113.71451 l 6.66109,-39.93761 -6.66109,-39.93708 h 113.71451 125.90859 z"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:0.37776515;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:0.37776515;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       d="m -420.60101,222.88123 69.17355,39.9376 69.17304,39.93711 -69.17304,39.93708 -69.17355,39.93711 6.66109,-39.93711 h -125.90859 -113.71451 l 6.66109,-39.93761 -6.66109,-39.93708 h 113.71451 125.90859 z"
+       id="path994" />
+  </g>
+</svg>
